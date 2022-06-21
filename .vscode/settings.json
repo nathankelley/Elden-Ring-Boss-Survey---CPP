@@ -1,0 +1,11 @@
+{
+    "C_Cpp.errorSquiggles": "Enabled",
+    "files.associations": {
+        "xstring": "cpp",
+        "map": "cpp",
+        "iostream": "cpp",
+        "utility": "cpp",
+        "xtree": "cpp",
+        "ostream": "cpp"
+    }
+}
