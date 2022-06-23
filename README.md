@@ -1,12 +1,11 @@
 # Elden Ring Boss Survey - CPP
 # Overview
 
-{Important!  Do not say in this section that this is college assignment.  Talk about what you are trying to accomplish as a software engineer to further your learning.}
 This program is a interactive survey that allows the user to rate Elden Ring bosses by various characteristics, such as difficulty or how annoying they might be. My purpose with this program was to get more practice in creating programs in C++ that solve problems and show how I implement my ideas.  
 
 The bulk of this program uses a primary Boss class with methods for printing, rating, and storing information. 
 
-[Software Demo Video](http://youtube.link.goes.here)
+[Software Demo Video](https://youtu.be/zPb-T64hJDs)
 
 # Development Environment
 
