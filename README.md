@@ -13,7 +13,6 @@ This program is created entirely in C++. The development environment was Microso
 
 # Useful Websites
 
-{Make a list of websites that you found helpful in this project}
 * [C++ - W3Schools](https://www.w3schools.com/cpp/default.asp)
 * [CPlusPlus](https://cplusplus.com/)
 
